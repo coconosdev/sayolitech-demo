@@ -1,23 +1,22 @@
 {
     "Header": {
-
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "Sayolitech",
+        "paragraph": "Dedicados a brindar servicios de outsourcing de tecnologías digitales basadas en herramientas open source y en el uso de metodologías ágiles.."
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "Con más de 30 años de experiencia Sayolitech es una de las mejores opciones para sacar adelante sus proyectos.",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Compromiso",
+            "Rapidez",
+            "Uso de las últimas tecnologías",
+            "Precios accesibles"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Innovación",
+            "Talento",
+            "Comunicación constante",
+            "Entrega de prototipos"
         ]
     },
     "Services": [{
@@ -55,33 +54,33 @@
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "Hemos comprobado que Sayolitech responde muy bien a nuestras necesidades. Sayolitech siempre cumple o supera nuestros estándares con los mejores coordinadores técnicos e ingenieros.",
+            "name": "Enrique Molina"
         },
         {
             "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "Uno de los puntos fuertes de Encora es su capacidad para encontrar el mejor talento. Esperamos añadir un valor significativo juntos en el futuro próximo.",
+            "name": "Julio Leguizamo"
         },
         {
             "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "El equipo de Encora se ha convertido en parte esencial de nuestro proceso de desarrollo. Consideramos que Encora es una parte importante de nuestra estrategia de crecimiento y un sólido socio de desarrollo continuo.",
+            "name": "Edmundo Zorita"
         },
         {
             "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "Nuestra experiencia con el equipo de Sayolitech ha sido nada menos que excepcional. El equipo de gestión se centra en el cliente, mientras que el equipo de desarrollo siente pasión por su trabajo y da gusto trabajar con él.  Estamos encantados de tener un socio tan bueno.",
+            "name": "Paula Barrueco"
         },
         {
             "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "Su capacidad de respuesta, su atención a la entrega y su visión estratégica han sido impresionantes.",
+            "name": "Fernando Lacasa"
         },
         {
             "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "Estamos especialmente orgullosos del trabajo realizado por Sayolitech. Esperamos seguir colaborando con ellos.",
+            "name": "Julieta Rodríguez"
         }
     ],
     "Team": [{
@@ -105,32 +104,32 @@
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
+        "address": "Montecito 38, Nápoles, Benito Juárez, 03810 Ciudad de México",
+        "phone": "555-0123",
+        "email": "info@sayolitech.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
         "youtube": "youtube.com"
     },
     "Features": [{
             "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Contacto",
+            "text": "Comuniquese con nosotros para hablar de su proyecto."
         },
         {
             "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Junta",
+            "text": "Se firma contrato, se determinan precios y fechas."
         },
         {
             "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Equipo",
+            "text": "Juntamos a un equipo perfectamente adapatado a las necesidades del proyecto."
         },
         {
             "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Desarrollo",
+            "text": "Con desarrollo agil, se entregan prototipos hasta completar el proyecto."
         }
     ]
 }
